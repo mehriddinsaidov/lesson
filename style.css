@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Fredoka:wght@300..700&family=Ms+Madi&display=swap');
+
+* {
+    margin: 0;
+}
+
+body {
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    /* font-weight: <weight>; */
+    /* font-style: normal; */
+    /* font-variation-settings:
+    "wdth" 100; */
+}
+
+.img {
+    margin-left: 5px;
+}
+
+span {
+    color: #D23166;
+}
+
+.txt {
+    font-size: 15px;
+    display: flex;
+    gap: 35px;
+    margin-top: 40px;
+}
+
+.but {
+    button {
+        width: 165px;
+        height: 49px;
+        background-color: #D23166;
+        color: white;
+        font-size: 16px;
+        border-radius: 5px;
+        border: none;
+        margin-top: 20px;
+    }
+}
+
+.start {
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.allst {
+    background-color: #f7dfe7;
+    height: 862px;
+}
+
+.head {
+    color: #0F0101;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+
+.txt1 {
+    margin-top: 100px;
+
+    h1 {
+        font-size: 57.33px;
+        width: 615px;
+    }
+
+    .p {
+        font-size: 14px;
+    }
+
+    p {
+        width: 473px;
+        color: #0F0101;
+        margin-top: 20px;
+
+    }
+
+    button {
+        width: 165px;
+        height: 49px;
+        border-radius: 5px;
+        border: none;
+        background-color: #D23166;
+        font-size: 16px;
+        color: white;
+        margin-top: 30px;
+    }
+
+}
+
+.bi {
+    background-image: url(./Ellipse\ 18.png);
+    width: 365px;
+    height: 353px;
+    margin-top: 200px;
+    margin-left: -100px;
+
+}
+
+.milk {
+    margin-left: -282px;
+    margin-top: -480px;
+}
+
+.ice {
+    margin-top: -300px;
+    margin-left: -100px;
+}
+
+.n1 {
+    text-align: center;
+    width: 238px;
+    border: 2px solid white;
+    width: 198px;
+    height: 140px;
+    box-shadow: 0px 0px 5px rgb(228, 224, 224);
+    margin-top: 100px;
+    padding: 20px;
+    padding-top: 60px;
+
+    p {
+        font-size: 14px;
+    }
+
+    h4 {
+        font-size: 20px;
+    }
+}
